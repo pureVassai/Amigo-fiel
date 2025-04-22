@@ -15,7 +15,6 @@
 Acesse o site: [https://amigofielourinhos.com.br](https://amigofielourinhos.com.br)  
 
 ![Preview do Site](https://via.placeholder.com/800x400.png?text=Preview+Amigo+Fiel+%7C+Substitua+por+sua+imagem)  
-*(Substitua pela URL de uma imagem real do seu projeto ou um GIF de demonstração)*  
 
 ---
 
