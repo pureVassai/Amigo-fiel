@@ -12,7 +12,7 @@
 ---
 
 ## 🌟 Demonstração  
-Acesse o site: [https://amigo-fiel.netlify.app](https://amigo-fiel.netlify.app)  
+Acesse o site: [https://amigofiel.netlify.app](https://amigo-fiel.netlify.app)  
 
 ![Preview do Site](https://via.placeholder.com/800x400.png?text=Preview+Amigo+Fiel+%7C+Substitua+por+sua+imagem)  
 *(Substitua pela URL de uma imagem real do seu projeto ou um GIF de demonstração)*  
