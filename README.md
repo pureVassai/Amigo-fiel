@@ -35,9 +35,6 @@ Acesse o site: [https://amigofielourinhos.com.br](https://amigofielourinhos.com.
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 
-- **Hospedagem**:  
-  ![Registro.br]
-
 - **Ferramentas**:  
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
