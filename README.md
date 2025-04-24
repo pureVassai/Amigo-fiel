@@ -38,7 +38,7 @@ Acesse o site: [https://amigofielourinhos.com.br](https://amigofielourinhos.com.
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 
 - **Hospedagem**:  
-  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)  
+  ![Registro.br]
 
 - **Ferramentas**:  
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
@@ -49,4 +49,4 @@ Acesse o site: [https://amigofielourinhos.com.br](https://amigofielourinhos.com.
 ## 🚀 Como Executar Localmente  
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/amigo-fiel.git
+   git clone https://github.com/pureVassai/amigo-fiel.git
