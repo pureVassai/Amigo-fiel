@@ -14,8 +14,6 @@
 ## 🌟 Demonstração  
 Acesse o site: [https://amigofielourinhos.com.br](https://amigofielourinhos.com.br)  
 
-![Preview do Site](https://via.placeholder.com/800x400.png?text=Preview+Amigo+Fiel+%7C+Substitua+por+sua+imagem)  
-
 ---
 
 ## 📌 Sobre o Projeto  
