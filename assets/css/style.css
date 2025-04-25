@@ -638,6 +638,7 @@ p#p-home {
   margin-bottom: 20px;
   position: relative;
   display: inline-block;
+  margin-right: 20px;
 }
 
 .nos-move-content h3::after {
