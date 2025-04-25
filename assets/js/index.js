@@ -86,6 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
 document.addEventListener('DOMContentLoaded', function () {
   const images = [
     'url("assets/img/dogs/pipoca1.jpg")',
+    'url("assets/img/dogs/bruce.jpg")',
     'url("assets/img/dogs/minniemaggie.jpg")',
     'url("assets/img/dogs/hannah.jpg")',
     'url("assets/img/dogs/chico.jpg")',
